@@ -9,7 +9,7 @@ $_['overview']          = 'نظرة عامة';
 
 // Quickview
 $_['button_detail'] 		  = 'التفاصيل';
-$_['text_category_stock_quantity']  = 'على عجل! لم يتبقى سوى ٪s منتج!';
+$_['text_category_stock_quantity']  = 'على عجل! لم يتبقى سوى %s منتج!';
 
 // Home page
 $_['text_more'] 			  = 'أكثر';
@@ -19,7 +19,7 @@ $_['text_items_miss']         = '%s';
 $_['text_items']              = '<span class="number">%s</span> <span class="text">المنتجات</span> - <span class="number_2">%s</span>';
 $_['text_contact']      	  = 'اتصل بنا';
 $_['text_menu']  		 	  = 'قائمة طعام';
-$_['text_compare']      	  = 'قارن (٪s)';
+$_['text_compare']      	  = 'قارن (%s)';
 $_['text_item_1']             = 'يوجد ';
 $_['text_item_2']             = ' سلة التسوق الخاصة بك';
 $_['text_item_3']             = ' المنتجات';

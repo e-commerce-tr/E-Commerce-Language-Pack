@@ -1,16 +1,16 @@
 <?php
 // Heading  
-$_['heading_title']          = 'Karşılaştırmak';
+$_['heading_title']          = 'للمقارنة';
 
 // Text
-$_['text_title']             = 'Ürün karşılaştırmak için eklendi';
+$_['text_title']             = 'وأضاف المنتج للمقارنة';
 $_['text_thumb']             = '<img src="%s" alt="" />';
-$_['text_success']           = 'Başarı: <a href="%s">%s</a> ürün karşılaştırmanıza <a href="%s"> eklediniz!</a>!';
+$_['text_success']           = 'النجاح: لقد قمت <a href="%s"> بإضافة </a> إلى مقارنة منتجك <a href="%s">%s </a>!';
 $_['text_items']             = '%s';
-$_['text_compare']   	   	 = 'Karşılaştırmak (%s)';
-$_['text_failure']           = 'Başarısızlık';
-$_['text_exists']            = 'Bazı ürünler zaten ürün karşılaştırmasında listeleniyor';
+$_['text_compare']   	   	 = 'قارن (%s)';
+$_['text_failure']           = 'فشل';
+$_['text_exists']            = 'بعض المنتجات مدرجة بالفعل في المقارنة بين المنتجات';
 // Error
-$_['error_required']         = '%s gereklidir!';	
+$_['error_required']         = '%s مطلوب!';	
 
 ?>
