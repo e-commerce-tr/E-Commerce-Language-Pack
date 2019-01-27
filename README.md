@@ -1,5 +1,7 @@
 # E-Commerce Language Pack<br>
 
+Rahat çalışmanız için gerekli program : https://code.visualstudio.com/<br>
+
 tr-tr =  Tükçe (Developer Süleyma Ekici completed) <br>
 zh_CN = Çince<br>
 Ru-ru = Rusça<br>
