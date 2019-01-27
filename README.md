@@ -12,6 +12,6 @@ El-gr = yunanca<br>
 İt-it = italyanca<br>
 Fr-fr = fransızca<br>
 de-DE = almanca<br>
-ar =	Arapça<br>
+ar =	Arapça (Developer Süleyma Ekici completed) <br>
 
 Talimat: Tüm Paketler Türkçeden ilgili dile çevrilecek şekilde ayarlandı. Sadece ilgili türkçe kelimeyi ilgili dile çevirmek yeterli olacaktır.
