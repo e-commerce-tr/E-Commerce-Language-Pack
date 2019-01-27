@@ -1,6 +1,6 @@
 # E-Commerce Language Pack
 
-tr-tr =  Tükçe (Developer Süleyma Ekici completed)
+tr-tr =  Tükçe (Developer Süleyma Ekici completed) <br>
 zh_CN = Çince
 Ru-ru = Rusça
 He-IL = ibrahince
