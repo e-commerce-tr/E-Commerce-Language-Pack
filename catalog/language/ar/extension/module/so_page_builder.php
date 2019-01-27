@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title'] = 'Yani Sayfa oluşturucu';
+$_['heading_title'] = 'منشئ صفحة جديدة';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
+$_['text_tax']      		= 'الضرائب في:';
+$_['text_noproduct']      	= 'لا توجد عناصر لعرضها!';
 
-$_['shortcode_email']   			= 'Email';
-$_['shortcode_email_desc']			= 'E-posta almak için yönetici e-postanızı girin.';
-$_['shortcode_email_validation']   	= 'Email gereklidir';
-$_['shortcode_email_validation_']	= 'Lütfen geçerli bir e-posta adresi girin';
-$_['shortcode_name']   				= 'İsim';
-$_['shortcode_name_desc']			= 'Buraya başlık göstermek istediğiniz adı yazın.';
-$_['shortcode_name_validation']   	= 'İsim gerekli';
-$_['shortcode_message']   			= 'Mesaj';
-$_['shortcode_message_validation']  = 'Mesaj gerekli';
-$_['shortcode_subject']   			= 'Konu';
-$_['shortcode_subject_desc']		= 'Evet i seçerseniz, o zaman iletişim formunun konu alanını gösterin.';
-$_['shortcode_subject_validation']  = 'Konu gerekli';
-$_['shortcode_send_success']  		= 'Mesajınız başarıyla gönderilmiştir';
-$_['shortcode_send_error']  		= 'Sunucu İşleme Hatası';
-$_['shortcode_carousel_not_item_desc']= 'Carousel içeriği bulunamadı, lütfen carousel kaynak ayarlarını kontrol edin.';
+$_['shortcode_email']   			= 'البريد الإلكتروني';
+$_['shortcode_email_desc']			= 'أدخل البريد الإلكتروني للمشرف لتلقي البريد الإلكتروني.';
+$_['shortcode_email_validation']   	= 'البريد الإلكتروني المطلوب';
+$_['shortcode_email_validation_']	= 'يرجى إدخال عنوان بريد إلكتروني صالح';
+$_['shortcode_name']   				= 'اسم';
+$_['shortcode_name_desc']			= 'اكتب الاسم الذي تريد إظهاره هنا.';
+$_['shortcode_name_validation']   	= 'الاسم مطلوب';
+$_['shortcode_message']   			= 'رسالة';
+$_['shortcode_message_validation']  = 'الرسالة المطلوبة';
+$_['shortcode_subject']   			= 'موضوع';
+$_['shortcode_subject_desc']		= 'إذا قمت بتحديد نعم ، فقم بعرض منطقة الموضوع الخاصة بنموذج الاتصال.';
+$_['shortcode_subject_validation']  = 'الموضوع المطلوب';
+$_['shortcode_send_success']  		= 'لقد تم إرسال رسالتك بنجاح';
+$_['shortcode_send_error']  		= 'خادم معالجة خطأ';
+$_['shortcode_carousel_not_item_desc']= 'لم يتم العثور على محتوى الرف الدائري ، يرجى التحقق من إعدادات مصدر مكتبة الرف الدائري.';

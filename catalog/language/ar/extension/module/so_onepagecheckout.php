@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title'] 								= 'Yani Web Sitesinde Ödeme';
-$_['text_checkout_create_account_login']           	= 'Hesap Oluştur veya Giriş Yap';
-$_['text_confirm_order']           					= 'Sipariş onaylamak';
-$_['text_shipping_address']           				= 'Teslimat adresi';
-$_['text_title_shipping_method']           			= 'Nakliye Yöntemi';
-$_['text_title_payment_method']           			= 'Ödeme şekli';
-$_['text_coupon_voucher']           				= 'Kupon veya Kuponunuz Var mı?';
-$_['text_enter_coupon_code']           				= 'Kupon kodunu girin';
-$_['text_enter_voucher_code']           			= 'Kupon kodunu gir';
-$_['text_apply_voucher']           					= 'Kuponu Uygula';
-$_['text_enter_reward_points']           			= 'Ödül puanlarını gir';
-$_['text_apply_points']           					= 'Puan Uygula';
-$_['text_shopping_cart']           					= 'Alışveriş kartı';
-$_['text_payment_detail']          					= 'Ödeme detayları';
+$_['heading_title'] 								= 'لذا الدفع على الموقع';
+$_['text_checkout_create_account_login']           	= 'قم بإنشاء حساب أو تسجيل الدخول';
+$_['text_confirm_order']           					= 'تأكيد الطلب';
+$_['text_shipping_address']           				= 'تأكيد الطلب';
+$_['text_title_shipping_method']           			= 'طريقة الشحن';
+$_['text_title_payment_method']           			= 'نوع الدفع';
+$_['text_coupon_voucher']           				= 'هل لديك قسيمة أو قسيمة؟';
+$_['text_enter_coupon_code']           				= 'هل لديك قسيمة أو قسيمة؟';
+$_['text_enter_voucher_code']           			= 'أدخل رمز القسيمة';
+$_['text_apply_voucher']           					= 'تطبيق القسيمة';
+$_['text_enter_reward_points']           			= 'أدخل نقاط المكافأة';
+$_['text_apply_points']           					= 'تطبيق النقاط';
+$_['text_shopping_cart']           					= 'بطاقة التسوق';
+$_['text_payment_detail']          					= 'تفاصيل الدفع';
 
 //Error
-$_['error_comment']									= 'Siparişiniz hakkında yorum eklemelisiniz';
+$_['error_comment']									= 'يجب عليك إضافة تعليقات حول طلبك';

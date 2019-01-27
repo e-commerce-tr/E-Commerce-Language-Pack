@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Çok Popüler Sekmeler';
+$_['heading_title'] = 'علامات شعبية جدا';
 
 // Messages
-$_['text_notags']  		= 'Kullanılabilir etiket yok';
+$_['text_notags']  		= 'لا توجد علامات متاحة';

@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'So Instagram Gallery';
+$_['heading_title'] = 'لذا معرض Instagram';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
+$_['text_tax']          = 'الضرائب في:';
 
-$_['text_sale']      		= 'Satış';
-$_['text_new']      		= 'Yeni';
+$_['text_sale']      		= 'مبيعات';
+$_['text_new']      		= 'جديد';

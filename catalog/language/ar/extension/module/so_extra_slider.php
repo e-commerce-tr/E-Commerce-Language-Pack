@@ -3,8 +3,8 @@
 $_['heading_title'] = 'So Extra Slider';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
-$_['text_noitem']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']          = 'الضرائب في:';
+$_['text_noproduct']      	= 'لا توجد عناصر لعرضها!';
+$_['text_noitem']      	= 'لا توجد عناصر لعرضها!';
+$_['text_sale']      	= 'مبيعات';
+$_['text_new']      	= 'جديد';

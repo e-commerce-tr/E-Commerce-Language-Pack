@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title'] = 'So listing tabs';
+$_['heading_title'] = 'لذا إدراج علامات التبويب';
 
 // Text
-$_['text_tax']      	= 'KDV Dahil:';
-$_['value_price'] 		= 'Fiyat';
-$_['value_name'] 		= 'İsim';
-$_['value_model'] 		= 'Model';
-$_['value_quantity'] 	= 'Miktar';
-$_['value_rating'] 		= 'En Çok Oylananlar';
-$_['value_sort_add'] 	= 'Tavsiye etmek';
-$_['value_date_add'] 	= 'Yeni gelenler';
-$_['value_sell'] 		= 'En çok satanlar';
-$_['text_noproduct']    = 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']          = 'الضرائب في:';
+$_['value_price'] 		= 'السعر';
+$_['value_name'] 		= 'اسم';
+$_['value_model'] 		= 'نموذج';
+$_['value_quantity'] 	= 'كمية';
+$_['value_rating'] 		= 'الأعلى تصنيفا';
+$_['value_sort_add'] 	= 'يوصي';
+$_['value_date_add'] 	= 'الوافدون الجدد';
+$_['value_sell'] 		= 'الكتب الأكثر مبيعا';
+$_['text_noproduct']    = 'لا توجد عناصر لعرضها!';
+$_['text_sale']      	= 'مبيعات';
+$_['text_new']      	= 'جديد';

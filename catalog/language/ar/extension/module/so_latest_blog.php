@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['text_latest']  = 'Son'; 
-$_['text_comment']     = ' Yorum Yap';
-$_['text_comments']    = ' Yorum Yaplar';
-$_['text_view']        = ' Görünüm';
-$_['text_views']       = ' Görünümler';
+$_['text_latest']  = 'آخر'; 
+$_['text_comment']     = ' اترك تعليقا';
+$_['text_comments']    = ' التعليق على';
+$_['text_view']        = ' رأي';
+$_['text_views']       = ' المشاهدات';
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_noitem']      = 'Gösterilecek öğe yok!';
-$_['text_no_database'] = 'Bu Eklenti için Veritabanı Tabloları Eksik, Lütfen "Basit Blog" u Şimdi İndirin!';
+$_['text_tax']          = 'الضرائب في:';
+$_['text_noitem']      = 'لا توجد عناصر لعرضها!';
+$_['text_no_database'] = 'جداول قاعدة البيانات مفقودة لهذا البرنامج المساعد ، يرجى تحميل "مدونة بسيطة" الآن!';
