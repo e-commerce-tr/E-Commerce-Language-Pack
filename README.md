@@ -3,12 +3,12 @@
 tr-tr =  Tükçe (Developer Süleyma Ekici completed) <br>
 zh_CN = Çince<br>
 Ru-ru = Rusça<br>
-He-IL = ibrahince<br>
+He-IL = ibranice<br>
 Es-es = ispanyolca<br>
 En-gb = Ingilizce (Developer Süleyma Ekici completed)<br>
 El-gr = yunanca<br>
-İt-it = italya<br>
-Fr-fr = fransa<br>
+İt-it = italyanca<br>
+Fr-fr = fransızca<br>
 de-DE = almanca<br>
 ar =	Arapça<br>
 
