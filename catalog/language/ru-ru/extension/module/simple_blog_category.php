@@ -1,9 +1,9 @@
 <?php
-// Heading 
-$_['heading_title']      	= 'Kategoriler';
+// Заголовок
+$_['heading_title'] = 'Категории';
 
-// Text
-$_['text_search_article']	= 'Makale Ara:';
+// Текст
+$_['text_search_article'] = 'Поиск статей:';
 
-// Buttons
-$_['button_search']			= 'Arama';
+// кнопки
+$_['button_search'] = 'Поиск';

@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title'] = 'Filtre';
+// Заголовок
+$_['heading_title'] = 'Фильтр';
 
-// Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      		= 'Satış';
-$_['text_new']      		= 'Yeni';
+// Текст
+$_['text_tax'] = 'налог включен:';
+$_['text_noproduct'] = 'Нет элементов для отображения!';
+$_['text_sale'] = 'Продажи';
+$_['text_new'] = 'новый';
 
-$_['text_search']      		= 'Arama';
-$_['text_price']      		= 'Fiyat';
-$_['text_reset_all']      	= 'Hepsini sıfırla';
-$_['text_manufacturer']     = 'Üretici firma';
-$_['text_subcategory']     	= 'Alt Kategori';
+$_['text_search'] = 'Поиск';
+$_['text_price'] = 'Цена';
+$_['text_reset_all'] = 'Сбросить все';
+$_['text_manufacturer'] = 'Производитель';
+$_['text_subcategory'] = 'Подкатегория';

@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'So Html Content';
+$_['heading_title'] = 'Так что HTML контент';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= 'налог включен:';
+$_['text_noproduct'] = 'Нет элементов для отображения!';
+$_['text_sale'] = 'Продажи';
+$_['text_new'] = 'New';

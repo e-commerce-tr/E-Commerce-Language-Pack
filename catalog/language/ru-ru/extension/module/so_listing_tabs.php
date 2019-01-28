@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title'] = 'So listing tabs';
+$_['heading_title'] = 'Итак, список вкладок';
 
 // Text
-$_['text_tax']      	= 'KDV Dahil:';
-$_['value_price'] 		= 'Fiyat';
-$_['value_name'] 		= 'İsim';
-$_['value_model'] 		= 'Model';
-$_['value_quantity'] 	= 'Miktar';
-$_['value_rating'] 		= 'En Çok Oylananlar';
-$_['value_sort_add'] 	= 'Tavsiye etmek';
-$_['value_date_add'] 	= 'Yeni gelenler';
-$_['value_sell'] 		= 'En çok satanlar';
-$_['text_noproduct']    = 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= 'налог включен:';
+$_['value_price'] = 'Цена';
+$_['value_name'] = 'название';
+$_['value_model'] = 'Модель';
+$_['value_quantity'] = 'Количество';
+$_['value_rating'] = 'Лучшие оценки';
+$_['value_sort_add'] = 'Рекомендовать';
+$_['value_date_add'] = 'Новички';
+$_['value_sell'] = 'Бестселлеры';
+$_['text_noproduct'] = 'Нет элементов для отображения!';
+$_['text_sale'] = 'Продажи';
+$_['text_new'] = 'новый';

@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title'] = 'So home slider';
+$_['heading_title'] = 'Итак, домашний слайдер';
 
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_noitem']      = 'Gösterilecek öğe yok!';
+$_['text_tax']      		= 'налог включен:';
+$_['text_noitem']      = 'Нет элементов для отображения!';

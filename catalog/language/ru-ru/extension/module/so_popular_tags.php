@@ -1,6 +1,6 @@
 <?php
-// Heading
-$_['heading_title'] = 'Çok Popüler Sekmeler';
+// Заголовок
+$_['heading_title'] = 'Очень популярные вкладки';
 
-// Messages
-$_['text_notags']  		= 'Kullanılabilir etiket yok';
+// Сообщения
+$_['text_notags'] = 'Нет доступных тегов';

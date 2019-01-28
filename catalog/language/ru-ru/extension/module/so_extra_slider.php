@@ -1,10 +1,10 @@
 <?php
-// Heading
+// Заголовок
 $_['heading_title'] = 'So Extra Slider';
 
-// Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
-$_['text_noitem']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+// Текст
+$_['text_tax'] = 'налог включен:';
+$_['text_noproduct'] = 'Нет элементов для отображения!';
+$_['text_noitem'] = 'Нет элементов для отображения!';
+$_['text_sale'] = 'Продажи';
+$_['text_new'] = 'New';

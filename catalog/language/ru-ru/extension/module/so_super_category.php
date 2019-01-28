@@ -1,21 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'Çok Süper Kategori';
+$_['heading_title'] = 'Супер Категория';
 
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_date']      = 'Tarih: ';
-// So super category
-$_['all_ready_label'] 	= 'Her şey hazır';
-$_['load_more_label'] 	= 'Daha fazla yükle';
-$_['value_price'] 		= 'Fiyat';
-$_['value_name'] 		= 'İsim';
-$_['value_model'] 		= 'Model';
-$_['value_quantity'] 	= 'Miktar';
-$_['value_rating'] 		= 'Değerlendirme';
-$_['value_sort_add'] 	= 'Sıralama ekle';
-$_['value_date_add'] 	= 'Tarih Ekleme';
-$_['value_sale'] 		= 'Satış';
-$_['text_noitem']      = 'Gösterilecek ürün yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax'] = 'налог включен:';
+$_['text_date'] = 'Дата:';
+$_['all_ready_label'] = 'Все готово';
+$_['load_more_label'] = 'Загрузить больше';
+$_['value_price'] = 'Цена';
+$_['value_name'] = 'название';
+$_['value_model'] = 'Модель';
+$_['value_quantity'] = 'Количество';
+$_['value_rating'] = 'Оценка';
+$_['value_sort_add'] = 'Добавить сортировку';
+$_['value_date_add'] = 'Добавить дату';
+$_['value_sale'] = 'Продажи';
+$_['text_noitem'] = 'Нет элементов для отображения!';
+$_['text_sale'] = 'Продажи';
+$_['text_new'] = 'новый';
