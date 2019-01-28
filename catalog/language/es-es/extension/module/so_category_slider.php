@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Kategoriler Silder';
+$_['heading_title'] = 'Categorías Slider';
 
 // Text
-$_['text_tax']      	= 'KDV Dahil:';
-$_['text_noitem']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= 'impuestos incluidos:';
+$_['text_noitem'] = '¡No hay elementos para mostrar!';
+$_['text_sale'] = 'Ventas';
+$_['text_new'] = 'Nuevo';

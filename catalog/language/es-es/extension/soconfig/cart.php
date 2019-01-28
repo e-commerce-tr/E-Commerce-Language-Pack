@@ -1,15 +1,15 @@
 <?php
 // Heading  
-$_['heading_title']          = 'Sepet';
+$_['heading_title']          = 'cesta';
 
-// Text
-$_['text_title']             = 'Ürün Sepete eklendi';
-$_['text_thumb']             = '<img src="%s" alt="" />';
-$_['text_success']           = '<a href="%s">%s</a> alışveriş sepetine <a href="%s">eklenmiş</a>!';
-$_['text_items']     	    = '<span class="items_cart">%s </span><span class="items_cart">ürün (ler)</span><span class="items_carts"> - %s</span>';
-$_['text_shop']  			  = 'Şimdi alışveriş';
-$_['text_shop_cart']		  = 'Sepetim';
-// Error
-$_['error_required']         = '%s gereklidir!';	
+// texto
+$_['text_title'] = 'Producto agregado al carrito';
+$_['text_thumb'] = '<img src = "%s" alt = "" />';
+$_['text_success'] = '<a href="%s"> <a href="%s"> añadido </a> al carrito de la compra </a>.';
+$_['text_items'] = '<span class = "items_cart">%s </ span> <span class = "items_cart"> producto (s) </ span> <span class = "items_carts"> -%s </ span>';
+$_['text_shop'] = 'Comprar ahora';
+$_['text_shop_cart'] = 'Mi carrito';
+// error
+$_['error_required'] = '%s es obligatorio!';
 
 ?>

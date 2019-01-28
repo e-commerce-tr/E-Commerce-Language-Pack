@@ -1,5 +1,5 @@
 <?php
 // Quickview
-$_['button_detail'] 		  = 'Detay';
-$_['text_category_stock_quantity']  = 'Acele! sadece %s ürün kaldı!';
+$_['button_detail'] 		  = 'detalle';
+$_['text_category_stock_quantity']  = 'Date prisa! solo queda %s producto!';
 

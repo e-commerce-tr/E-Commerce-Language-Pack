@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title'] = 'Filtre';
+// Título
+$_['heading_title'] = 'Filtrar';
 
-// Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      		= 'Satış';
-$_['text_new']      		= 'Yeni';
+// texto
+$_['text_tax'] = 'impuestos incluidos:';
+$_['text_noproduct'] = '¡No hay elementos para mostrar!';
+$_['text_sale'] = 'Ventas';
+$_['text_new'] = 'Nuevo';
 
-$_['text_search']      		= 'Arama';
-$_['text_price']      		= 'Fiyat';
-$_['text_reset_all']      	= 'Hepsini sıfırla';
-$_['text_manufacturer']     = 'Üretici firma';
-$_['text_subcategory']     	= 'Alt Kategori';
+$_['text_search'] = 'Llamada';
+$_['text_price'] = 'Precio';
+$_['text_reset_all'] = 'Restablecer todo';
+$_['text_manufacturer'] = 'Manufacturer';
+$_['text_subcategory'] = 'Subcategoría';

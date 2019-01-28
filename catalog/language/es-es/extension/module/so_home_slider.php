@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title'] = 'So home slider';
+$_['heading_title'] = 'Así que deslizador de casa';
 
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_noitem']      = 'Gösterilecek öğe yok!';
+$_['text_tax']      		= 'impuestos incluidos:';
+$_['text_noitem']      = 'No hay elementos para mostrar!';

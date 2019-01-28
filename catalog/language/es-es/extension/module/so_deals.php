@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title'] = 'Fırsatlar';
+$_['heading_title'] = 'oportunidades';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noitem']      		= '<p style="padding: 20px;"><br>Gösterilecek öğe yok!</p>';
-$_['text_sale']      		= 'Satış';
-$_['text_new']      		= 'Yeni';
-$_['text_shopnow']      			= 'Şimdi satın al';
+$_['text_tax']      		= 'impuestos incluidos:';
+$_['text_noitem'] = '<p style = "padding: 20px;"> <br> ¡No hay elementos para mostrar! </ p>';
+$_['text_sale'] = 'Ventas';
+$_['text_new'] = 'Nuevo';
+$_['text_shopnow'] = 'Cómpralo ahora';
 
-$_['text_view_all']      		= 'Hepsini gör';
-$_['text_end_in']      		= 'Sonunda';
-// Text
-$_['text_Day']      			= 'Gün';
-$_['text_Days']      			= 'Gün';
-$_['text_Hour']      			= 'Saat';
-$_['text_Hours']      			= 'Saat';
-$_['text_Min']      			= 'Dakika';
-$_['text_Mins']      			= 'Dakika';
-$_['text_Sec']      			= 'Saniye';
-$_['text_Secs']      			= 'Saniye';
+$_['text_view_all'] = 'Ver todo';
+$_['text_end_in'] = 'Finalmente';
+// texto
+$_['text_Day'] = 'Día';
+$_['text_Days'] = 'Día';
+$_['text_Hour'] = 'Hora';
+$_['text_Hours'] = 'Hora';
+$_['text_Min'] = 'Minutos';
+$_['text_Mins'] = 'Minutos';
+$_['text_Sec'] = 'Segundos';
+$_['text_Secs'] = 'Segundos';
