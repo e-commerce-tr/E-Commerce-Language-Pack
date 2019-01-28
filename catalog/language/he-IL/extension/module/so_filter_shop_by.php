@@ -12,4 +12,4 @@ $_['text_search'] =' חפש ';
 $_['text_price'] =' מחיר ';
 $_['text_reset_all'] =' אפס הכל ';
 $_['text_manufacturer'] =' יצרן ';
-$_['text_subcategory'] =' תת-קטגוריה ';
+$_['text_subcategory'] =' תת-קטגוריה '; 
