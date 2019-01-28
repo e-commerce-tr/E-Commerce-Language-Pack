@@ -8,5 +8,5 @@ $_['text_latest_all'] ='最近的帖子';
 $_['text_no_result'] ='没有结果！';
 $_['text_comments'] ='＆nbsp;评论';
 $_['text_comment'] ='＆nbsp;评论';
-$_['show_all_text'] ='查看全部'; 
+$_['show_all_text'] ='查看全部';
  
