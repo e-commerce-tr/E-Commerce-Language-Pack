@@ -3,7 +3,7 @@
 Rahat çalışmanız için gerekli program : https://code.visualstudio.com/<br>
 
 tr-tr =  Türkçe (Developer Süleyma Ekici completed) <br>
-zh_CN = Çince<br>
+zh_CN = Çince (Developer Süleyma Ekici completed)<br>
 Ru-ru = Rusça<br>
 He-IL = ibranice<br>
 Es-es = ispanyolca<br>
