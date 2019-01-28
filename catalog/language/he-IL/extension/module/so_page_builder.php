@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title'] = 'Yani Sayfa oluşturucu';
+$_['heading_title'] = 'בונה דפים חדש';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
+$_['text_tax']      	= 'כולל מסים:';
+$_['text_noproduct'] =' אין פריטים להצגה! ';
 
-$_['shortcode_email']   			= 'Email';
-$_['shortcode_email_desc']			= 'E-posta almak için yönetici e-postanızı girin.';
-$_['shortcode_email_validation']   	= 'Email gereklidir';
-$_['shortcode_email_validation_']	= 'Lütfen geçerli bir e-posta adresi girin';
-$_['shortcode_name']   				= 'İsim';
-$_['shortcode_name_desc']			= 'Buraya başlık göstermek istediğiniz adı yazın.';
-$_['shortcode_name_validation']   	= 'İsim gerekli';
-$_['shortcode_message']   			= 'Mesaj';
-$_['shortcode_message_validation']  = 'Mesaj gerekli';
-$_['shortcode_subject']   			= 'Konu';
-$_['shortcode_subject_desc']		= 'Evet i seçerseniz, o zaman iletişim formunun konu alanını gösterin.';
-$_['shortcode_subject_validation']  = 'Konu gerekli';
-$_['shortcode_send_success']  		= 'Mesajınız başarıyla gönderilmiştir';
-$_['shortcode_send_error']  		= 'Sunucu İşleme Hatası';
-$_['shortcode_carousel_not_item_desc']= 'Carousel içeriği bulunamadı, lütfen carousel kaynak ayarlarını kontrol edin.';
+$_['shortcode_email'] =' דוא"ל ';
+$_['shortcode_email_desc'] = 'הזן את כתובת הדוא"ל של מנהל המערכת שלך כדי לקבל דוא"ל.';
+$_['shortcode_email_validation'] = 'נדרש דוא"ל';
+$_['shortcode_email_validation_'] = 'אנא הזן כתובת דואר אלקטרוני חוקית';
+$_['shortcode_name'] =' שם ';
+$_['shortcode_name_desc'] = 'הקלד את השם שברצונך להציג כאן.';
+$_['shortcode_name_validation'] = 'שם נדרש';
+$_['shortcode_message'] =' הודעה ';
+$_['shortcode_message_validation'] = 'נדרשת הודעה';
+$_['shortcode_subject'] =' נושא ';
+$_['shortcode_subject_desc'] = 'אם תבחר כן , תציג את אזור הנושא של טופס יצירת הקשר.';
+$_['shortcode_subject_validation'] = 'נושא חובה';
+$_['shortcode_send_success'] =' ההודעה שלך נשלחה בהצלחה ';
+$_['shortcode_send_error'] = 'שגיאת עיבוד שרת';
+$_['shortcode_carousel_not_item_desc'] = 'תוכן קרוסלה לא נמצא, אנא בדוק את הגדרות מקור הקרוסלה.';

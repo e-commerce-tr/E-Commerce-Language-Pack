@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title'] = 'Filtre';
+$_['heading_title'] = 'מסנן';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      		= 'Satış';
-$_['text_new']      		= 'Yeni';
+$_['text_tax']      	= 'כולל מסים:';
+$_['text_noproduct'] =' אין פריטים להצגה! ';
+$_['text_sale'] =' מכירות ';
+$_['text_new'] =' חדש ';
 
-$_['text_search']      		= 'Arama';
-$_['text_price']      		= 'Fiyat';
-$_['text_reset_all']      	= 'Hepsini sıfırla';
-$_['text_manufacturer']     = 'Üretici firma';
-$_['text_subcategory']     	= 'Alt Kategori';
+$_['text_search'] =' חפש ';
+$_['text_price'] =' מחיר ';
+$_['text_reset_all'] =' אפס הכל ';
+$_['text_manufacturer'] =' יצרן ';
+$_['text_subcategory'] =' תת-קטגוריה ';

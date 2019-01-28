@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_more_category']           = "Daha fazla kategori";
-$_['text_close_category']          = "Kategorileri Kapat";
+$_['text_more_category']           = "קטגוריות נוספות";
+$_['text_close_category']          = "סגירת קטגוריות";

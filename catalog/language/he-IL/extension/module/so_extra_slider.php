@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title'] = 'So Extra Slider';
+$_['heading_title'] = 'אז עוד המחוון';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
-$_['text_noitem']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      	= 'כולל מסים:';
+$_['text_noproduct'] =' אין פריטים להצגה! ';
+$_['text_noitem'] = 'אין פריטים להצגה!';
+$_['text_sale'] =' מכירות ';
+$_['text_new'] =' חדש ';

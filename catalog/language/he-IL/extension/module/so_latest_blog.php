@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['text_latest']  = 'Son'; 
-$_['text_comment']     = ' Yorum Yap';
-$_['text_comments']    = ' Yorum Yaplar';
-$_['text_view']        = ' Görünüm';
-$_['text_views']       = ' Görünümler';
-// Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_noitem']      = 'Gösterilecek öğe yok!';
-$_['text_no_database'] = 'Bu Eklenti için Veritabanı Tabloları Eksik, Lütfen "Basit Blog" u Şimdi İndirin!';
+$_['text_tax']      	= 'כולל מסים:';
+$_['text_latest'] =' בן ';
+$_['text_latest '] =' אחרון ';
+$_['text_comment '] =' תגובה ';
+$_['text_comments '] =' תגובה ';
+$_['text_view '] =' הצג ';
+$_['text_views '] =' תצוגות ';
+$_['text_noitem'] = 'אין פריטים להצגה!';
+$_['text_no_database'] = 'חסר טבלאות מסד נתונים עבור תוסף זה, בבקשה "בלוג פשוט" הורד עכשיו!';

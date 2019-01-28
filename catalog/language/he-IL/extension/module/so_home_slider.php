@@ -3,5 +3,5 @@
 $_['heading_title'] = 'So home slider';
 
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_noitem']      = 'Gösterilecek öğe yok!';
+$_['text_tax']      	= 'כולל מסים:';
+$_['text_noitem']      = 'אין פריטים להצגה!';
