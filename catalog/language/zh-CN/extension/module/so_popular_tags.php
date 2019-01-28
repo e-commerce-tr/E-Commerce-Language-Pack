@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Çok Popüler Sekmeler';
+$_['heading_title'] ='非常受欢迎的标签';
 
-// Messages
-$_['text_notags']  		= 'Kullanılabilir etiket yok';
+//消息
+$_['text_notags'] ='没有可用的标签';

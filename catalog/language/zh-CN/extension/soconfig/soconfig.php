@@ -1,45 +1,44 @@
 <?php
-$_['lang_todaysdeal']          = 'Bugünün Teklifleri';
-$_['view_details']          = 'Bu sınırlı teklif sona eriyor';
-$_['countdown_title_day']          = 'Günler';
-$_['countdown_title_hour']          = 'Saatler';
-$_['countdown_title_minute']          = 'dk';
-$_['countdown_title_second']          = 'sn';
-$_['overview']          = 'Genel Bakış';
+$_['lang_todaysdeal'] ='今日优惠';
+$_['view_details'] ='此限价出价';
+$_['countdown_title_day'] ='天';
+$_['countdown_title_hour'] ='小时';
+$_['countdown_title_minute'] ='min';
+$_['countdown_title_second'] ='sn';
+$_['overview'] ='概述';
 
-// Quickview
-$_['button_detail'] 		  = 'Detay';
-$_['text_category_stock_quantity']  = 'Acele! sadece %s ürün kaldı!';
+$_['button_detail'] ='细节';
+$_['text_category_stock_quantity'] ='快点！只留下％s的产品！';
 
-// Home page
-$_['text_more'] 			  = 'Daha';
-$_['text_shop']  			  = 'Şimdi alışveriş';
-$_['text_shop_cart']		  = 'Sepetim';
-$_['text_items_miss']         = '%s';
-$_['text_items']              = '<span class="number">%s</span> <span class="text">ürün(ler)</span> - <span class="number_2">%s</span>';
-$_['text_contact']      	  = 'Bize ulaşın';
-$_['text_menu']  		 	  = 'Menu';
-$_['text_compare']      	  = 'Karşılaştırmak (%s)';
-$_['text_item_1']             = 'Var ';
-$_['text_item_2']             = ' sepetinizde';
-$_['text_item_3']             = ' ürün(ler)';
 
-$_['text_backtotop']          = ' Başa dönüş ';
-$_['text_sub']                = ' TÜM HABERLERİMİZ ';
-$_['text_stock']              = ' Stok ';
-$_['text_stock1']             = ' Stok1 ';
-$_['text_price_old']          = ' Eski Fiyat ';
-$_['text_price_save']         = ' Fiyat Tasarrufu ';
-$_['text_price_sale']         = ' Fiyat Satışı ';
-$_['text_viewdeals']          = ' Fiyatları Görüntüle ';
-$_['text_instock']            = ' Stokta var';
-$_['text_show_cate']          = ' Tüm Kategorileri Göster ';
-$_['button_quickview']        = 'Hızlı Görünüme ekle';
-$_['text_hotline']       	  = 'Sıcak';
-$_['text_compare']       	  = 'Karşılaştırmak';
-$_['text_sidebar']       	  = 'Kenar çubuğu';
+$_['text_more'] ='更多';
+$_['text_shop'] ='立即购买';
+$_['text_shop_cart'] ='我的购物车';
+$_['text_items_miss'] ='％s';
+$_['text_items'] ='<span class =“number”>％s </ span> <span class =“text”> product（s）</ span>  -  <span class =“number_2”>％s </span>';
+$_['text_contact'] ='联系我们';
+$_['text_menu'] ='菜单';
+$_['text_compare'] ='比较（％s）';
+$_['text_item_1'] ='是';
+$_['text_item_2'] ='在您的购物车中';
+$_['text_item_3'] ='product（s）';
 
-// Category page
-$_['text_viewdeals']  		  = 'Tüm Fırsatları Göster';
-$_['text_upsell'] 				  	= '';
-$_['text_new'] 				  		= 'Yeni';
+
+$_['text_backtotop'] ='返回顶部';
+$_['text_sub'] ='我们所有的新闻';
+$_['text_stock'] ='股票';
+$_['text_stock1'] ='Stock1';
+$_['text_price_old'] ='旧价格';
+$_['text_price_save'] ='价格优惠';
+$_['text_price_sale'] ='价格促销';
+$_['text_viewdeals'] ='查看价格';
+$_['text_instock'] ='有货';
+$_['text_show_cate'] ='显示所有类别';
+$_['button_quickview'] ='添加到快速查看';
+$_['text_hotline'] ='热';
+$_['text_compare'] ='比较';
+$_['text_sidebar'] ='补充工具栏';
+
+$_['text_viewdeals'] ='显示所有机会';
+$_['text_upsell'] ='';
+$_['text_new'] ='新';

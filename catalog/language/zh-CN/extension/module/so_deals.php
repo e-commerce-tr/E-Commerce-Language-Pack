@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Fırsatlar';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
+$_['text_tax']      		= '含税:';
 $_['text_noitem']      		= '<p style="padding: 20px;"><br>Gösterilecek öğe yok!</p>';
 $_['text_sale']      		= 'Satış';
 $_['text_new']      		= 'Yeni';

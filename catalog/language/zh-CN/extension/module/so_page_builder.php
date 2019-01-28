@@ -3,21 +3,21 @@
 $_['heading_title'] = 'Yani Sayfa oluşturucu';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
+$_['text_tax']      		= '含税:';
+$_['text_noproduct'] ='没有要显示的项目！';
 
-$_['shortcode_email']   			= 'Email';
-$_['shortcode_email_desc']			= 'E-posta almak için yönetici e-postanızı girin.';
-$_['shortcode_email_validation']   	= 'Email gereklidir';
-$_['shortcode_email_validation_']	= 'Lütfen geçerli bir e-posta adresi girin';
-$_['shortcode_name']   				= 'İsim';
-$_['shortcode_name_desc']			= 'Buraya başlık göstermek istediğiniz adı yazın.';
-$_['shortcode_name_validation']   	= 'İsim gerekli';
-$_['shortcode_message']   			= 'Mesaj';
-$_['shortcode_message_validation']  = 'Mesaj gerekli';
-$_['shortcode_subject']   			= 'Konu';
-$_['shortcode_subject_desc']		= 'Evet i seçerseniz, o zaman iletişim formunun konu alanını gösterin.';
-$_['shortcode_subject_validation']  = 'Konu gerekli';
-$_['shortcode_send_success']  		= 'Mesajınız başarıyla gönderilmiştir';
-$_['shortcode_send_error']  		= 'Sunucu İşleme Hatası';
-$_['shortcode_carousel_not_item_desc']= 'Carousel içeriği bulunamadı, lütfen carousel kaynak ayarlarını kontrol edin.';
+$_['shortcode_email'] ='电子邮件';
+$_['shortcode_email_desc'] ='输入您的管理员电子邮件以接收电子邮件。';
+$_['shortcode_email_validation'] ='需要电子邮件';
+$_['shortcode_email_validation_'] ='请输入有效的电子邮件地址';
+$_['shortcode_name'] ='姓名';
+$_['shortcode_name_desc'] ='输入您要在此处显示的名称。';
+$_['shortcode_name_validation'] ='名称必填';
+$_['shortcode_message'] ='消息';
+$_['shortcode_message_validation'] ='需要消息';
+$_['shortcode_subject'] ='主题';
+$_['shortcode_subject_desc'] ='如果选择是，则显示联系表单的主题区域。';
+$_['shortcode_subject_validation'] ='需要主题';
+$_['shortcode_send_success'] ='您的邮件已成功发送';
+$_['shortcode_send_error'] ='服务器处理错误';
+$_['shortcode_carousel_not_item_desc'] ='未找到轮播内容，请检查轮播来源设置。';

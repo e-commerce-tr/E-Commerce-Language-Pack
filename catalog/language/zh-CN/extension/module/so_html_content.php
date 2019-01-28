@@ -3,7 +3,7 @@
 $_['heading_title'] = 'So Html Content';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= '含税:';
+$_['text_noproduct'] ='没有要显示的项目！';
+$_['text_sale'] ='销售';
+$_['text_new'] ='新';
