@@ -10,7 +10,7 @@ $_['text_date_format']				= '<b>d</b> M';
 $_['text_date_format_long']			= 'F jS, Y  g:i A';
 
 // Entry
-$_['entry_name'] = 'Name';
+$_['entry_name'] = 'название';
 $_['entry_captcha'] = 'Введите код в поле ниже:';
 $_['entry_review'] = 'Комментарий';
 
@@ -21,7 +21,7 @@ $_['text_related_comment'] = 'Комментарии';
 $_['text_related_article'] = 'Статья, связанная с блогом';
 $_['text_author_information'] = '(Автор)';
 $_['text_posted_by'] = 'отправлено';
-$_['text_on'] = 'On';
+$_['text_on'] = 'На';
 $_['text_updated'] = 'Обновление открыто';
 $_['text_comment_on_article'] = 'Комментарии к этой записи -';
 $_['text_view_comment'] = 'Просмотреть комментарии';
@@ -30,7 +30,7 @@ $_['text_note'] = 'Примечание: HTML не переведен!';
 $_['text_comments'] = 'Комментарии';
 $_['text_comment'] = 'Комментарий';
 $_['text_no_blog'] = 'Нет комментариев для этого блога.';
-$_['text_on'] = 'On';
+$_['text_on'] = 'На';
 $_['text_success'] = 'Спасибо за ваш комментарий!';
 $_['text_success_approval'] = 'Спасибо за ваш комментарий. Отправлено вебмастеру на утверждение! ';
 $_['text_wait'] = 'Подождите!';

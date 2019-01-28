@@ -12,8 +12,8 @@ $_['text_shopnow'] = 'Купить сейчас';
 $_['text_view_all'] = 'Посмотреть все';
 $_['text_end_in'] = 'Наконец';
 // Текст
-$_['text_Day'] = 'Day';
-$_['text_Days'] = 'Day';
+$_['text_Day'] = 'День';
+$_['text_Days'] = 'День';
 $_['text_Hour'] = 'Часы';
 $_['text_Hours'] = 'Время';
 $_['text_Min'] = 'Минуты';
