@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['text_latest']  = 'Son'; 
-$_['text_comment']     = ' Yorum Yap';
-$_['text_comments']    = ' Yorum Yaplar';
-$_['text_view']        = ' Görünüm';
-$_['text_views']       = ' Görünümler';
-// Text
+$_['text_latest'] ='最后';
+$_['text_comment'] ='评论';
+$_['text_comments'] ='评论';
+$_['text_view'] ='查看';
+$_['text_views'] ='观看次数';
+//文字
 $_['text_tax']      		= '含税:';
-$_['text_noitem']      = 'Gösterilecek öğe yok!';
-$_['text_no_database'] = 'Bu Eklenti için Veritabanı Tabloları Eksik, Lütfen "Basit Blog" u Şimdi İndirin!';
+$_['text_noitem'] ='没有要显示的项目！';
+$_['text_no_database'] ='缺少此插件的数据库表，请“简单博客”立即下载！';
