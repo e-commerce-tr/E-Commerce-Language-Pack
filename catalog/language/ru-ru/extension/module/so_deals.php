@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title'] = 'возможности';
 
-// Text
+// Text Yeni
 $_['text_tax']      		= 'налог включен:';
 $_['text_noitem'] = '<p style = "padding: 20px;"> <br> Нет элементов для отображения! </ p>';
 $_['text_sale'] = 'Продажи';
