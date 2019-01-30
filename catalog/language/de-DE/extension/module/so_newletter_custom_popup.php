@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['input_check']           = "Bu açılır pencereyi tekrar gösterme";
-$_['label_email']           = "E-posta Girin";
-$_['newsletter_placeholder']= "E-posta adresleriniz...";
-$_['newsletter_button']     = "Abone ol";
+$_['input_check']           = "Dieses Popup nicht mehr anzeigen";
+$_['label_email']           = "E-Mail eingeben";
+$_['newsletter_placeholder']= "Ihre E-Mail-Adressen ...";
+$_['newsletter_button']     = "Abonnieren";

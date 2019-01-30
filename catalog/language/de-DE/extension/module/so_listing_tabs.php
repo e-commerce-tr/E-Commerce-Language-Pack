@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title'] = 'So listing tabs';
+$_['heading_title'] = 'Also Tabs auflisten';
 
 // Text
-$_['text_tax']      	= 'KDV Dahil:';
-$_['value_price'] 		= 'Fiyat';
-$_['value_name'] 		= 'İsim';
-$_['value_model'] 		= 'Model';
-$_['value_quantity'] 	= 'Miktar';
-$_['value_rating'] 		= 'En Çok Oylananlar';
-$_['value_sort_add'] 	= 'Tavsiye etmek';
-$_['value_date_add'] 	= 'Yeni gelenler';
-$_['value_sell'] 		= 'En çok satanlar';
-$_['text_noproduct']    = 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= 'Steuern inbegriffen:';
+$_['value_price'] 		= 'Preis';
+$_['value_name'] 		= 'Name';
+$_['value_model'] 		= 'Modell';
+$_['value_quantity'] 	= 'Menge';
+$_['value_rating'] 		= 'Top bewertet';
+$_['value_sort_add'] 	= 'Empfehlen';
+$_['value_date_add'] 	= 'Newcomer';
+$_['value_sell'] 		= 'Bestseller';
+$_['text_noproduct']    = 'Keine Elemente zum Anzeigen';
+$_['text_sale']      	= 'Vertrieb';
+$_['text_new']      	= 'neu';

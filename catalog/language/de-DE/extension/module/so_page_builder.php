@@ -1,23 +1,23 @@
 <?php
-// Heading
-$_['heading_title'] = 'Yani Sayfa oluşturucu';
+// Überschrift
+$_['heading_title'] = 'So Page Builder';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
+$_['text_tax'] = 'Steuern enthalten:';
+$_['text_noproduct'] = 'Keine Elemente zum Anzeigen!';
 
-$_['shortcode_email']   			= 'Email';
-$_['shortcode_email_desc']			= 'E-posta almak için yönetici e-postanızı girin.';
-$_['shortcode_email_validation']   	= 'Email gereklidir';
-$_['shortcode_email_validation_']	= 'Lütfen geçerli bir e-posta adresi girin';
-$_['shortcode_name']   				= 'İsim';
-$_['shortcode_name_desc']			= 'Buraya başlık göstermek istediğiniz adı yazın.';
-$_['shortcode_name_validation']   	= 'İsim gerekli';
-$_['shortcode_message']   			= 'Mesaj';
-$_['shortcode_message_validation']  = 'Mesaj gerekli';
-$_['shortcode_subject']   			= 'Konu';
-$_['shortcode_subject_desc']		= 'Evet i seçerseniz, o zaman iletişim formunun konu alanını gösterin.';
-$_['shortcode_subject_validation']  = 'Konu gerekli';
-$_['shortcode_send_success']  		= 'Mesajınız başarıyla gönderilmiştir';
-$_['shortcode_send_error']  		= 'Sunucu İşleme Hatası';
-$_['shortcode_carousel_not_item_desc']= 'Carousel içeriği bulunamadı, lütfen carousel kaynak ayarlarını kontrol edin.';
+$_['shortcode_email'] = 'E-Mail';
+$_['shortcode_email_desc'] = 'Geben Sie Ihre Administrator-E-Mail ein, um die E-Mail zu erhalten.';
+$_['shortcode_email_validation'] = 'E-Mail ist erforderlich';
+$_['shortcode_email_validation_'] = 'Bitte geben Sie eine gültige E-Mail-Adresse ein';
+$_['shortcode_name'] = 'Name';
+$_['shortcode_name_desc'] = 'Geben Sie den Namen ein, den Sie hier anzeigen möchten.';
+$_['shortcode_name_validation'] = 'Name erforderlich';
+$_['shortcode_message'] = 'Nachricht';
+$_['shortcode_message_validation'] = 'Nachricht erforderlich';
+$_['shortcode_subject'] = 'Betreff';
+$_['shortcode_subject_desc'] = 'Wenn Sie Ja auswählen, zeigen Sie den Themenbereich des Kontaktformulars an.';
+$_['shortcode_subject_validation'] = 'Betreff erforderlich';
+$_['shortcode_send_success'] = 'Ihre Nachricht wurde erfolgreich gesendet';
+$_['shortcode_send_error'] = 'Server Processing Error';
+$_['shortcode_carousel_not_item_desc'] = 'Karussellinhalt nicht gefunden. Bitte überprüfen Sie die Einstellungen für das Karussell.';

@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title'] = 'So home slider';
+$_['heading_title'] = 'Also nach Hause Schieberegler';
 
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_noitem']      = 'Gösterilecek öğe yok!';
+$_['text_tax']      		= 'Steuern inbegriffen:';
+$_['text_noitem']      = 'Keine Elemente zum Anzeigen';

@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'So Html Content';
+$_['heading_title'] = 'Also HTML-Inhalt';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= 'Steuern inbegriffen:';
+$_['text_noproduct']      	= 'Keine Elemente zum Anzeigen';
+$_['text_sale']      	= 'Vertrieb';
+$_['text_new']      	= 'neu';
