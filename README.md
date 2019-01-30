@@ -12,7 +12,7 @@ Es-es = ispanyolca (Developer Süleyma Ekici completed)<br>
 El-gr = yunanca (Developer Süleyma Ekici completed)<br>
 İt-it = italyanca (Developer Süleyma Ekici completed)<br>
 Fr-fr = fransızca (Developer Süleyma Ekici completed)<br>
-de-DE = almanca<br>
+de-DE = almanca  (Developer Süleyma Ekici completed)<br>
 
 
 Talimat: Tüm Paketler Türkçeden ilgili dile çevrilecek şekilde ayarlandı. Sadece ilgili türkçe kelimeyi ilgili dile çevirmek yeterli olacaktır.
