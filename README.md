@@ -10,7 +10,7 @@ En-gb = Ingilizce (Developer Süleyma Ekici completed)<br>
 Ru-ru = Rusça (Developer Süleyma Ekici completed)<br>
 Es-es = ispanyolca (Developer Süleyma Ekici completed)<br>
 El-gr = yunanca (Developer Süleyma Ekici completed)<br>
-İt-it = italyanca<br>
+İt-it = italyanca (Developer Süleyma Ekici completed)<br>
 Fr-fr = fransızca<br>
 de-DE = almanca<br>
 
