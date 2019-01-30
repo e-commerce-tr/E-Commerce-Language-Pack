@@ -3,15 +3,15 @@
 $_['heading_title'] = 'So listing tabs';
 
 // Text
-$_['text_tax']      	= 'KDV Dahil:';
-$_['value_price'] 		= 'Fiyat';
-$_['value_name'] 		= 'İsim';
-$_['value_model'] 		= 'Model';
-$_['value_quantity'] 	= 'Miktar';
-$_['value_rating'] 		= 'En Çok Oylananlar';
-$_['value_sort_add'] 	= 'Tavsiye etmek';
-$_['value_date_add'] 	= 'Yeni gelenler';
-$_['value_sell'] 		= 'En çok satanlar';
-$_['text_noproduct']    = 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= 'taxes incluses:';
+$_['value_price'] 		= 'prix';
+$_['value_name'] 		= 'nom';
+$_['value_model'] 		= 'Modèle';
+$_['value_quantity'] 	= 'quantité';
+$_['value_rating'] 		= 'Les mieux notés';
+$_['value_sort_add'] 	= 'Recommander';
+$_['value_date_add'] 	= 'Nouveaux arrivants';
+$_['value_sell'] 		= 'Meilleures ventes';
+$_['text_noproduct']    = 'Aucun élément à afficher!';
+$_['text_sale']      	= 'ventes';
+$_['text_new']      	= 'nouveau';

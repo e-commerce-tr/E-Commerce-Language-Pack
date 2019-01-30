@@ -1,17 +1,17 @@
 <?php
-// Heading  
-$_['heading_title']          = 'İstek Listesi';
+// rubrique
+$_['heading_title'] = 'Liste de souhaits';
 
-// Text
-$_['text_account']  = 'Hesap';
-$_['text_instock']  = 'Stokta var';
-$_['text_wishlist'] = 'Dilek Listesi (%s)';
-$_['text_title']             = 'İstek listesine ürün eklendi';
-$_['text_failure']           = 'Başarısızlık';
-$_['text_thumb']             = '<img src="%s" alt="" />';
-$_['text_exists']            = 'Bazı öğeler zaten eBay de listelendiğinden kaldırıldı';
-$_['text_success']           = 'Başarı: Eklediniz <a href="%s">%s</a> senin için <a href="%s">Dilek Listesi</a>!';
-$_['text_login']             = '<a href="%s">%s</a> kaydetmek için <a href="%s"> giriş yapın </a> veya <a href="%s"> bir hesap oluşturun </a>. <a href="%s"> istek listenize </a>!';
-$_['text_remove']   	= 'Başarı: İstek listenizi değiştirdiniz!';
-$_['text_empty']    	= 'İstek listeniz boş.';
+// texte
+$_['text_account'] = 'Compte';
+$_['text_instock'] = 'En stock';
+$_['text_wishlist'] = 'Liste de souhaits (%s)';
+$_['text_title'] = 'Produit ajouté à la liste de souhaits';
+$_['text_failure'] = 'Échec';
+$_['text_thumb'] = '<img src = "%s" alt = "" /> ';
+$_['text_exists'] = 'Certains objets ont déjà été supprimés car ils sont répertoriés sur eBay';
+$_['text_success'] = 'Succès: vous avez ajouté <a href="%s">%s </a> pour vous <a href="%s"> liste de souhaits </a>!';
+$_['text_login'] = '<a href="%s"> Connectez-vous </a> pour enregistrer <a href="%s">%s </a> ou <a href = "%s" > Créer un compte </a>. <a href="%s"> votre liste de souhaits </a>! ';
+$_['text_remove'] = 'Succès: vous avez modifié votre liste de souhaits!';
+$_['text_empty'] = 'Votre liste de souhaits est vide.';
 ?>

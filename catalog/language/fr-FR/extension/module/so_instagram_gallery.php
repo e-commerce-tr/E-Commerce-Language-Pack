@@ -3,7 +3,7 @@
 $_['heading_title'] = 'So Instagram Gallery';
 
 // Text
-$_['text_tax']      		= 'KDV Dahil:';
+$_['text_tax']      		= 'taxes incluses:';
 
-$_['text_sale']      		= 'Satış';
-$_['text_new']      		= 'Yeni';
+$_['text_sale']      		= 'ventes';
+$_['text_new']      		= 'nouveau';

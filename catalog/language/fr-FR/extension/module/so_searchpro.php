@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_search']    	= 'Arama';
-$_['text_category_all'] = 'Tüm Kategoriler';
-$_['text_tax']      	= 'KDV Dahil';
-$_['text_price']      	= 'Fiyat';
-$_['button_cart']       = 'Sepete ekle';
-$_['button_wishlist']       = 'İstek listesine ekle';
-$_['button_compare']       = 'Karşılaştırma Listesine Ekle';
+$_['text_search']    	= 'recherche';
+$_['text_category_all'] = 'Toutes les catégories';
+$_['text_tax']      		= 'taxes incluses:';
+$_['text_price']      	= 'prix';
+$_['button_cart']       = 'Ajouter au panier';
+$_['button_wishlist']       = 'Ajouter à la liste de souhaits';
+$_['button_compare']       = 'Ajouter au comparateur';

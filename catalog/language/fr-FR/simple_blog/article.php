@@ -1,48 +1,48 @@
 <?php
 // Heading 
-$_['heading_title']					= 'Mesajlar';
+$_['heading_title']					= 'messages';
 
 // Buttons
-$_['button_continue_reading']		= 'Daha fazla oku';
-$_['button_submit']					= 'YORUM YAP';
+$_['button_continue_reading']		= 'Lire plus';
+$_['button_submit']					= 'FAIRE DES COMMENTAIRES';
 
 $_['text_date_format']				= '<b>d</b> M';
 $_['text_date_format_long']			= 'F jS, Y  g:i A';
 
-// Entry
-$_['entry_name']					= 'isim';
-$_['entry_captcha']					= 'Kodu aşağıdaki kutuya girin:';
-$_['entry_review']					= 'Yorum Yap';
+// entrée
+$_['entry_name'] = 'Nom';
+$_['entry_captcha'] = 'Entrez le code dans la case ci-dessous:';
+$_['entry_review'] = 'Comment';
 
-// Text
-$_['text_no_found']					= 'Bu kategoride gönderi yok!';
-$_['text_related_product']			= 'ilgili ürünler';
-$_['text_related_comment']			= 'Yorumlar';
-$_['text_related_article']			= 'Blog İlgili Makale';
-$_['text_author_information']		= '(Yazar)';
-$_['text_posted_by']				= 'tarafından gönderildi';
-$_['text_on']						= 'Açık';
-$_['text_updated']					= 'Güncelleme açık';
-$_['text_comment_on_article']		= ' Bu yazıya yapılan yorumlar-';
-$_['text_view_comment']				= ' Yorumları Görüntüle';
-$_['text_write_comment']			= 'Yorumunuzu bırakın';
-$_['text_note']						= 'Not: HTML çevrilmemiştir!';
-$_['text_comments']					= ' Yorumlar';
-$_['text_comment']					= ' Yorum Yap';
-$_['text_no_blog']   				= 'Bu blog için yorum yapılmamış.';
-$_['text_on']           			= ' Açık ';
-$_['text_success']      			= 'Yorumun için teşekkür ederim!';
-$_['text_success_approval']			= 'Yorumun için teşekkür ederim. Onay için web yöneticisine gönderildi!';
-$_['text_wait']						= 'Bekleyin!';
-$_['text_reply_comment']			= 'Cevap';
-$_['text_said']						= 'Dedim:';
-$_['text_authors']					= 'Yazarlar';
+// texte
+$_['text_no_found'] = 'Pas de message dans cette catégorie!';
+$_['text_related_product'] = 'produits connexes';
+$_['text_related_comment'] = 'Commentaires';
+$_['text_related_article'] = 'Article lié au blog';
+$_['text_author_information'] = '(Auteur)';
+$_['text_posted_by'] = 'envoyé par';
+$_['text_on'] = 'On';
+$_['text_updated'] = 'La mise à jour est ouverte';
+$_['text_comment_on_article'] = 'Commentaires sur ce post -';
+$_['text_view_comment'] = 'Voir les commentaires';
+$_['text_write_comment'] = 'Laissez votre commentaire';
+$_['text_note'] = "Note: HTML n'est pas traduit!";
+$_['text_comments'] = 'Commentaires';
+$_['text_comment'] = 'Comment';
+$_['text_no_blog'] = "Aucun commentaire n'a été posté pour ce blog.";
+$_['text_on'] = 'On';
+$_['text_success'] = 'Merci pour votre commentaire!';
+$_['text_success_approval'] = 'Merci pour votre commentaire. Envoyé au webmaster pour approbation! ';
+$_['text_wait'] = 'Attendez!';
+$_['text_reply_comment'] = 'Répondre';
+$_['text_said'] = "J'ai dit:";
+$_['text_authors'] = 'Auteurs';
 
-$_['text_category_error']			= 'Blog Kategorisi Bulunamadı!';
-$_['text_author_error']				= 'Blog Yazarı Bulunamadı!';
-$_['text_article_error']			= 'Blog Bulunamadı!';
+$_['text_category_error'] = 'Catégorie de blog introuvable!';
+$_['text_author_error'] = 'Aucun blogueur trouvé!';
+$_['text_article_error'] = 'Aucun blog trouvé!';
 
-// Error
-$_['error_name']        			= 'Uyarı: Yazar Adı 3 ila 25 karakter arasında olmalıdır!';
-$_['error_text']        			= 'Uyarı: Yorum Metni 3 ile 1000 karakter arasında olmalıdır!';
-$_['error_captcha']     			= 'Uyarı: Doğrulama kodu resimle eşleşmiyor!';
+// erreur
+$_['error_name'] = "Attention: le nom de l'auteur doit comporter entre 3 et 25 caractères!";
+$_['error_text'] = "Attention: le commentaire doit comporter entre 3 et 1000 caractères!";
+$_['error_captcha'] = "Attention: le code de vérification ne correspond pas à l'image!";
