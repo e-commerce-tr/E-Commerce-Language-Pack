@@ -11,7 +11,7 @@ Ru-ru = Rusça (Developer Süleyma Ekici completed)<br>
 Es-es = ispanyolca (Developer Süleyma Ekici completed)<br>
 El-gr = yunanca (Developer Süleyma Ekici completed)<br>
 İt-it = italyanca (Developer Süleyma Ekici completed)<br>
-Fr-fr = fransızca<br>
+Fr-fr = fransızca (Developer Süleyma Ekici completed)<br>
 de-DE = almanca<br>
 
 
