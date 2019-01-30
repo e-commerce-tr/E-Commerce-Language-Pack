@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title'] = 'Çok Süper Kategori';
+$_['heading_title'] = 'Σούπερ Κατηγορία';
 
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_date']      = 'Tarih: ';
+$_['text_tax']      		= 'φόρους';
+$_['text_date']      = 'ιστορία: ';
 // So super category
-$_['all_ready_label'] 	= 'Her şey hazır';
-$_['load_more_label'] 	= 'Daha fazla yükle';
-$_['value_price'] 		= 'Fiyat';
-$_['value_name'] 		= 'İsim';
-$_['value_model'] 		= 'Model';
-$_['value_quantity'] 	= 'Miktar';
-$_['value_rating'] 		= 'Değerlendirme';
-$_['value_sort_add'] 	= 'Sıralama ekle';
-$_['value_date_add'] 	= 'Tarih Ekleme';
-$_['value_sale'] 		= 'Satış';
-$_['text_noitem']      = 'Gösterilecek ürün yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['all_ready_label'] 	= 'Όλα είναι έτοιμα';
+$_['load_more_label'] 	= 'Φορτώστε περισσότερο';
+$_['value_price'] 		= 'τιμή';
+$_['value_name'] 		= 'όνομα';
+$_['value_model'] 		= 'Μοντέλο';
+$_['value_quantity'] 	= 'ποσότητα';
+$_['value_rating'] 		= 'εκτίμηση';
+$_['value_sort_add'] 	= 'Προσθήκη κατάταξης';
+$_['value_date_add'] 	= 'Προσθήκη ημερομηνίας';
+$_['value_sale'] 		= 'πωλήσεις';
+$_['text_noitem']      = 'Δεν υπάρχουν προϊόντα προς εμφάνιση!';
+$_['text_sale']      	= 'πωλήσεις';
+$_['text_new']      	= 'νέος';

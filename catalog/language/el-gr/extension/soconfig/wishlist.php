@@ -1,17 +1,16 @@
-<?php
-// Heading  
-$_['heading_title']          = 'İstek Listesi';
-
-// Text
-$_['text_account']  = 'Hesap';
-$_['text_instock']  = 'Stokta var';
-$_['text_wishlist'] = 'Dilek Listesi (%s)';
-$_['text_title']             = 'İstek listesine ürün eklendi';
-$_['text_failure']           = 'Başarısızlık';
-$_['text_thumb']             = '<img src="%s" alt="" />';
-$_['text_exists']            = 'Bazı öğeler zaten eBay de listelendiğinden kaldırıldı';
-$_['text_success']           = 'Başarı: Eklediniz <a href="%s">%s</a> senin için <a href="%s">Dilek Listesi</a>!';
-$_['text_login']             = '<a href="%s">%s</a> kaydetmek için <a href="%s"> giriş yapın </a> veya <a href="%s"> bir hesap oluşturun </a>. <a href="%s"> istek listenize </a>!';
-$_['text_remove']   	= 'Başarı: İstek listenizi değiştirdiniz!';
-$_['text_empty']    	= 'İstek listeniz boş.';
+<?Php
+// Επικεφαλίδα
+$_['head_title'] = 'Λίστα επιθυμιών';
+// Κείμενο
+$_['text_account'] = 'Λογαριασμός';
+$_['text_instock'] = 'Σε απόθεμα';
+$_['text_wishlist'] = 'Λίστα αιτήσεων (%s)';
+$_['text_title'] = 'Το προϊόν προστέθηκε στη λίστα επιθυμιών';
+$_['text_failure'] = 'Αποτυχία';
+$_['text_thumb'] = '<img src = "%s" alt = "" />';
+$_['text_exists'] = 'Ορισμένα στοιχεία έχουν ήδη καταργηθεί επειδή είναι καταχωρημένα σε eBay';
+$_['text_success'] = 'Επιτυχία: Έχετε προσθέσει <a href="%s">%s </a> για εσάς <a href="%s"> Λίστα επιθυμιών </a>!';
+$_['text_login'] = '<a href="%s"> Συνδεθείτε </a> για να αποθηκεύσετε <a href="%s">%s </a> ή <a href = "%s" > Δημιουργία λογαριασμού </a>. <a href="%s"> λίστα επιθυμιών σας </a>! ';
+$_['text_remove'] = 'Επιτυχία: Αλλάξατε τη λίστα επιθυμιών σας!';
+$_['text_empty'] = 'Η λίστα επιθυμιών σας είναι κενή.';
 ?>

@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Kategoriler Silder';
 
 // Text
-$_['text_tax']      	= 'KDV Dahil:';
-$_['text_noitem']      	= 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= 'φόρους';
+$_['text_noitem']      	= 'Δεν υπάρχουν στοιχεία για εμφάνιση!';
+$_['text_sale']      	= 'πωλήσεις';
+$_['text_new']      	= 'νέος';

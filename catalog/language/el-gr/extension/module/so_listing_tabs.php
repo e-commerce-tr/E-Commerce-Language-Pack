@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title'] = 'So listing tabs';
+$_['heading_title'] = 'Έτσι καταχωρίστε τις καρτέλες';
 
 // Text
-$_['text_tax']      	= 'KDV Dahil:';
-$_['value_price'] 		= 'Fiyat';
-$_['value_name'] 		= 'İsim';
-$_['value_model'] 		= 'Model';
-$_['value_quantity'] 	= 'Miktar';
-$_['value_rating'] 		= 'En Çok Oylananlar';
-$_['value_sort_add'] 	= 'Tavsiye etmek';
-$_['value_date_add'] 	= 'Yeni gelenler';
-$_['value_sell'] 		= 'En çok satanlar';
-$_['text_noproduct']    = 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= 'φόρους';
+$_['value_price'] 		= 'τιμή';
+$_['value_name'] 		= 'όνομα';
+$_['value_model'] 		= 'Μοντέλο';
+$_['value_quantity'] 	= 'ποσότητα';
+$_['value_rating'] 		= 'Κορυφαία βαθμολογία';
+$_['value_sort_add'] 	= 'Συστήστε';
+$_['value_date_add'] 	= 'Νέοι εισερχόμενοι';
+$_['value_sell'] 		= 'Bestsellers';
+$_['text_noproduct']    = 'Δεν υπάρχουν στοιχεία για εμφάνιση!';
+$_['text_sale']      	= 'πωλήσεις';
+$_['text_new']      	= 'νέος';

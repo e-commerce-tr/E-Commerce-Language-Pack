@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['text_latest']  = 'Son'; 
-$_['text_comment']     = ' Yorum Yap';
-$_['text_comments']    = ' Yorum Yaplar';
-$_['text_view']        = ' Görünüm';
-$_['text_views']       = ' Görünümler';
+$_['text_latest']  = 'του'; 
+$_['text_comment']     = ' Αφήστε ένα σχόλιο';
+$_['text_comments']    = ' Σχόλια';
+$_['text_view']        = ' θέα';
+$_['text_views']       = ' Προβολές';
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_noitem']      = 'Gösterilecek öğe yok!';
-$_['text_no_database'] = 'Bu Eklenti için Veritabanı Tabloları Eksik, Lütfen "Basit Blog" u Şimdi İndirin!';
+$_['text_tax']      		= 'φόρους';
+$_['text_noitem']      = 'Δεν υπάρχουν στοιχεία για εμφάνιση!';
+$_['text_no_database'] = 'Λείπει πίνακες βάσεων δεδομένων για αυτήν την προσθήκη, παρακαλώ κατεβάστε το "απλό blog" τώρα!';
