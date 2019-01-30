@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['text_latest']  = 'Son'; 
-$_['text_comment']     = ' Yorum Yap';
-$_['text_comments']    = ' Yorum Yaplar';
-$_['text_view']        = ' Görünüm';
-$_['text_views']       = ' Görünümler';
+$_['text_latest']  = 'Suo'; 
+$_['text_comment']     = ' Lascia un commento commento';
+$_['text_comments']    = ' commentare';
+$_['text_view']        = ' vista';
+$_['text_views']       = ' Visualizzazionizioni';
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_noitem']      = 'Gösterilecek öğe yok!';
-$_['text_no_database'] = 'Bu Eklenti için Veritabanı Tabloları Eksik, Lütfen "Basit Blog" u Şimdi İndirin!';
+$_['text_tax']      		= 'tasse incluse:';
+$_['text_noitem']      = 'Nessun oggetto da mostrare!';
+$_['text_no_database'] = 'Tabelle del database mancanti per questo plugin, per favore scarica subito "Simple Blog"!le Blog"!';

@@ -1,45 +1,45 @@
 <?php
-$_['lang_todaysdeal']          = 'Bugünün Teklifleri';
-$_['view_details']          = 'Bu sınırlı teklif sona eriyor';
-$_['countdown_title_day']          = 'Günler';
-$_['countdown_title_hour']          = 'Saatler';
-$_['countdown_title_minute']          = 'dk';
-$_['countdown_title_second']          = 'sn';
-$_['overview']          = 'Genel Bakış';
+$_['lang_todaysdeal'] = 'Offerte di oggi';
+$_['view_details'] = 'Questa offerta limitata scade';
+$_['countdown_title_day'] = 'Giorni';
+$_['countdown_title_hour'] = 'Ore';
+$_['countdown_title_minute'] = 'min';
+$_['countdown_title_second'] = 'sn';
+$_['overview'] = 'Panoramica';
 
 // Quickview
-$_['button_detail'] 		  = 'Detay';
-$_['text_category_stock_quantity']  = 'Acele! sadece %s ürün kaldı!';
+$_['button_detail'] = 'Dettaglio';
+$_['text_category_stock_quantity'] = 'Sbrigati! solo il prodotto%s rimasto! ';
 
 // Home page
-$_['text_more'] 			  = 'Daha';
-$_['text_shop']  			  = 'Şimdi alışveriş';
-$_['text_shop_cart']		  = 'Sepetim';
-$_['text_items_miss']         = '%s';
-$_['text_items']              = '<span class="number">%s</span> <span class="text">ürün(ler)</span> - <span class="number_2">%s</span>';
-$_['text_contact']      	  = 'Bize ulaşın';
-$_['text_menu']  		 	  = 'Menu';
-$_['text_compare']      	  = 'Karşılaştırmak (%s)';
-$_['text_item_1']             = 'Var ';
-$_['text_item_2']             = ' sepetinizde';
-$_['text_item_3']             = ' ürün(ler)';
+$_['text_more'] = 'Altro';
+$_['text_shop'] = 'Acquista ora';
+$_['text_shop_cart'] = 'Il mio carrello';
+$_['text_items_miss'] = '%s';
+$_[ 'Text_items'] ='<SPAN class = "numero">%s </ span> <span class = "text"> articoli (s) </ span> - <SPAN class = "numero_2">%s </ span>';
+$_['text_contact'] = 'Contattaci';
+$_['text_menu'] = 'Menu';
+$_['text_compare'] = 'Confronta (%s)';
+$_['text_item_1'] = 'Sì';
+$_['text_item_2'] = 'nel tuo carrello';
+$_['text_item_3'] = 'prodotto / i';
 
-$_['text_backtotop']          = ' Başa dönüş ';
-$_['text_sub']                = ' TÜM HABERLERİMİZ ';
-$_['text_stock']              = ' Stok ';
-$_['text_stock1']             = ' Stok1 ';
-$_['text_price_old']          = ' Eski Fiyat ';
-$_['text_price_save']         = ' Fiyat Tasarrufu ';
-$_['text_price_sale']         = ' Fiyat Satışı ';
-$_['text_viewdeals']          = ' Fiyatları Görüntüle ';
-$_['text_instock']            = ' Stokta var';
-$_['text_show_cate']          = ' Tüm Kategorileri Göster ';
-$_['button_quickview']        = 'Hızlı Görünüme ekle';
-$_['text_hotline']       	  = 'Sıcak';
-$_['text_compare']       	  = 'Karşılaştırmak';
-$_['text_sidebar']       	  = 'Kenar çubuğu';
+$_['text_backtotop'] = "Torna all'inizio";
+$_['text_sub'] = 'TUTTE LE NOVITÀ';
+$_['text_stock'] = 'Stock';
+$_['text_stock1'] = 'Stock1';
+$_['text_price_old'] = 'Vecchio prezzo';
+$_['text_price_save'] = 'Prezzo risparmio';
+$_['text_price_sale'] = 'Prezzo in vendita';
+$_['text_viewdeals'] = 'Visualizza prezzi';
+$_['text_instock'] = 'Non disponibile';
+$_['text_show_cate'] = 'Mostra tutte le categorie';
+$_['button_quickview'] = 'Aggiungi alla visualizzazione rapida';
+$_['text_hotline'] = 'Hot';
+$_['text_compare'] = 'Confronta';
+$_['text_sidebar'] = 'Barra laterale';
 
-// Category page
-$_['text_viewdeals']  		  = 'Tüm Fırsatları Göster';
-$_['text_upsell'] 				  	= '';
-$_['text_new'] 				  		= 'Yeni';
+// Pagina della categoria
+$_['text_viewdeals'] = 'Mostra tutte le opportunità';
+$_['text_upsell'] = '';
+$_['text_new'] = 'Nuovo';

@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title'] = 'Çok Süper Kategori';
+$_['heading_title'] = 'Super categoria';
 
 // Text
-$_['text_tax']      = 'KDV Dahil:';
-$_['text_date']      = 'Tarih: ';
+$_['text_tax']      		= 'tasse incluse:';
+$_['text_date']      = 'storia: ';
 // So super category
-$_['all_ready_label'] 	= 'Her şey hazır';
-$_['load_more_label'] 	= 'Daha fazla yükle';
-$_['value_price'] 		= 'Fiyat';
-$_['value_name'] 		= 'İsim';
-$_['value_model'] 		= 'Model';
-$_['value_quantity'] 	= 'Miktar';
-$_['value_rating'] 		= 'Değerlendirme';
-$_['value_sort_add'] 	= 'Sıralama ekle';
-$_['value_date_add'] 	= 'Tarih Ekleme';
-$_['value_sale'] 		= 'Satış';
-$_['text_noitem']      = 'Gösterilecek ürün yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['all_ready_label'] 	= 'È tutto pronto';
+$_['load_more_label'] 	= 'Carica di più';
+$_['value_price'] 		= 'prezzo';
+$_['value_name'] 		= 'nome';
+$_['value_model'] 		= 'Modello';
+$_['value_quantity'] 	= 'quantità';
+$_['value_rating'] 		= 'valutazione';
+$_['value_sort_add'] 	= 'Aggiungi classifica';
+$_['value_date_add'] 	= 'Aggiunta di data';
+$_['value_sale'] 		= 'vendite';
+$_['text_noitem']      = 'Nessun prodotto da visualizzare!';
+$_['text_sale']      	= 'vendite';
+$_['text_new']      	= 'nuovo';

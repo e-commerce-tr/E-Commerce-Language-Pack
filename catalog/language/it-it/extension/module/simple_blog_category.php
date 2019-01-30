@@ -1,9 +1,9 @@
 <?php
 // Heading 
-$_['heading_title']      	= 'Kategoriler';
+$_['heading_title']      	= 'categorie';
 
 // Text
-$_['text_search_article']	= 'Makale Ara:';
+$_['text_search_article']	= 'Cerca articoli:';
 
 // Buttons
-$_['button_search']			= 'Arama';
+$_['button_search']			= 'ricerca';

@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title'] = 'So listing tabs';
+$_['heading_title'] = 'Quindi schede di elenco';
 
 // Text
-$_['text_tax']      	= 'KDV Dahil:';
-$_['value_price'] 		= 'Fiyat';
-$_['value_name'] 		= 'İsim';
-$_['value_model'] 		= 'Model';
-$_['value_quantity'] 	= 'Miktar';
-$_['value_rating'] 		= 'En Çok Oylananlar';
-$_['value_sort_add'] 	= 'Tavsiye etmek';
-$_['value_date_add'] 	= 'Yeni gelenler';
-$_['value_sell'] 		= 'En çok satanlar';
-$_['text_noproduct']    = 'Gösterilecek öğe yok!';
-$_['text_sale']      	= 'Satış';
-$_['text_new']      	= 'Yeni';
+$_['text_tax']      		= 'tasse incluse:';
+$_['value_price'] 		= 'prezzo';
+$_['value_name'] 		= 'nome';
+$_['value_model'] 		= 'Modello';
+$_['value_quantity'] 	= 'quantità';
+$_['value_rating'] 		= 'I più votati';
+$_['value_sort_add'] 	= 'raccomandare';
+$_['value_date_add'] 	= 'nuovi arrivi';
+$_['value_sell'] 		= 'I più venduti';
+$_['text_noproduct']    = 'Nessun oggetto da mostrare!';
+$_['text_sale']      	= 'vendite';
+$_['text_new']      	= 'nuovo';

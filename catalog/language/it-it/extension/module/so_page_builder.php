@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title'] = 'Yani Sayfa oluşturucu';
+$_['heading_title'] = 'So Page builder';
 
-// Text
-$_['text_tax']      		= 'KDV Dahil:';
-$_['text_noproduct']      	= 'Gösterilecek öğe yok!';
+// Testo
+$_['text_tax'] = 'tasse incluse:';
+$_['text_noproduct'] = 'Nessun elemento da visualizzare!';
 
-$_['shortcode_email']   			= 'Email';
-$_['shortcode_email_desc']			= 'E-posta almak için yönetici e-postanızı girin.';
-$_['shortcode_email_validation']   	= 'Email gereklidir';
-$_['shortcode_email_validation_']	= 'Lütfen geçerli bir e-posta adresi girin';
-$_['shortcode_name']   				= 'İsim';
-$_['shortcode_name_desc']			= 'Buraya başlık göstermek istediğiniz adı yazın.';
-$_['shortcode_name_validation']   	= 'İsim gerekli';
-$_['shortcode_message']   			= 'Mesaj';
-$_['shortcode_message_validation']  = 'Mesaj gerekli';
-$_['shortcode_subject']   			= 'Konu';
-$_['shortcode_subject_desc']		= 'Evet i seçerseniz, o zaman iletişim formunun konu alanını gösterin.';
-$_['shortcode_subject_validation']  = 'Konu gerekli';
-$_['shortcode_send_success']  		= 'Mesajınız başarıyla gönderilmiştir';
-$_['shortcode_send_error']  		= 'Sunucu İşleme Hatası';
-$_['shortcode_carousel_not_item_desc']= 'Carousel içeriği bulunamadı, lütfen carousel kaynak ayarlarını kontrol edin.';
+$_['shortcode_email'] = 'Email';
+$_['shortcode_email_desc'] = "Inserisci l'email dell'amministratore per ricevere email.";
+$_['shortcode_email_validation'] = 'Email è richiesta';
+$_['shortcode_email_validation_'] = 'Inserisci un indirizzo email valido';
+$_['shortcode_name'] = 'Nome';
+$_['shortcode_name_desc'] = 'Scrivi il nome che vuoi mostrare qui.';
+$_['shortcode_name_validation'] = 'Nome richiesto';
+$_['shortcode_message'] = 'Messaggio';
+$_['shortcode_message_validation'] = 'Messaggio richiesto';
+$_['shortcode_subject'] = 'Oggetto';
+$_['shortcode_subject_desc'] = "Se si seleziona Sì, quindi mostra l'area tematica del modulo di contatto.";
+$_['shortcode_subject_validation'] = 'Oggetto richiesto';
+$_['shortcode_send_success'] = 'Il tuo messaggio è stato inviato con successo';
+$_['shortcode_send_error'] = 'Errore di elaborazione del server';
+$_['shortcode_carousel_not_item_desc'] = 'Contenuto carosello non trovato, controlla le impostazioni della sorgente carosello.';
